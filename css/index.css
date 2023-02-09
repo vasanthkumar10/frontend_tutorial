@@ -8,6 +8,11 @@ body {
   font-size: 10px;
 }
 
+.parent-container {
+  display: flex;
+  justify-content: center;
+}
+
 .container {
   /* height: 80vh; */
   border: 2px solid black;
